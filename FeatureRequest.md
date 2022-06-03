@@ -11,6 +11,10 @@
 
 ____
 
+#### #25 Add support of the Homie convention for Mqtt 
+
+* [Use the homie convention for mqtt so that smart home sw can automatically detect the device](https://homieiot.github.io/)
+
 #### #24 Show Mqtt state directly in Webserver
 
 * Show MQTT log in Web page. E.g. connection established or failed to connect...
